@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PROMETEO</string>
+    <string name="id_value">Id</string>
+    <string name="capsule_value">Capsula</string>
+    <string name="career_value">Carrera</string>
+    <string name="assistant_value">Ayudante</string>
+    <string name="button_load">Load</string>
+    <string name="button_save">Save</string>
+    <string name="id_hint">Ingrese el número del id</string>
+    <string name="capsule_hint">Nombre del ramo</string>
+    <string name="career_hint">Carrera</string>
+    <string name="assistant_hint">Ayudante</string>
+    <string name="date_hint">Fecha</string>
+</resources>
